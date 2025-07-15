@@ -1,0 +1,9 @@
+Flask
+psycopg2-binary
+Flask_SQLAlchemy
+email-validator
+gunicorn
+Flask-Migrate
+flask-cors
+Flask-Login
+Flask-WTF
